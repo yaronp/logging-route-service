@@ -1,4 +1,4 @@
-# Example Route Service
+# CF Route Service
 
 An example route service for Cloud Foundry.
 
